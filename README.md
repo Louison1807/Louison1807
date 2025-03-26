@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis **Louison1807**  
+# 👋 Bonjour, je suis **FANOMEZANTSOA Bien Aimé Louison**  
 ### 🚀 **Aspiration** : Devenir **MLOps Engineer** 🧑‍💻  
 ---
 
@@ -17,7 +17,7 @@ Je suis passionné par la fusion entre **DevOps** 🛠️ et **Data Science** �
 ## 🎓 **Ce que j'apprends actuellement**
 - 🧩 Frameworks **MLOps** (MLflow, Kubeflow).  
 - ☁️ Outils cloud : **Terraform**, **AWS**, **GCP**.  
-- 💻 Langages : **Python**, **R**, **SQL**.  
+- 💻 Langages : **Python**, **R**, **SQL**, **JAVA** .  
 
 ---
 
@@ -33,7 +33,7 @@ Je suis passionné par la fusion entre **DevOps** 🛠️ et **Data Science** �
 
 ## 💡 **Collaborons ensemble !**
 Je suis ouvert à :  
-- 💻 Projets **DevOps** avancés.  
+- 💻 Projets **DevOps**.  
 - 🤖 Développement de solutions **Data Science**.  
 - 🌍 Projets innovants pour connecter **modèles ML** et production.  
 
