@@ -41,7 +41,7 @@ Je suis ouvert à :
 
 ## 📫 **Contactez-moi**
 - 🌐 GitHub : [Louison1807](https://github.com/Louison1807)  
-- 📧 Email : [votre.email@example.com]  
+- 📧 Email : [bienaimelouison@gmail.com]  
 
 ---
 
